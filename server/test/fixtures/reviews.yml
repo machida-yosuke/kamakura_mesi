@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  store_id: 1
+  title: MyString
+  review_text: MyString
+  cook_name: MyString
+  cook_price: MyString
+  user_id: 1
+
+two:
+  store_id: 1
+  title: MyString
+  review_text: MyString
+  cook_name: MyString
+  cook_price: MyString
+  user_id: 1
